@@ -1,0 +1,12 @@
+secret.txt
+config.json
+
+/node_modules/
+/build/
+/dist/
+
+*.log
+*.tmp
+
+.DS_Store
+thumbs.db
